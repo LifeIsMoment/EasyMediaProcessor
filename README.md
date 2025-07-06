@@ -30,11 +30,10 @@ EasyMediaProcessor는 소규모 영상 처리 회사를 위한 올인원 미디�
 ### 최신 릴리스 (v1.0.0)
 
 **Windows 사용자 (권장)**
-- [EasyMediaProcessor.exe](https://github.com/LifeIsMoment/EasyMediaProcessor/releases/latest/download/EasyMediaProcessor.exe) (약 100MB)
+- [EasyMediaProcessor.exe](https://github.com/LifeIsMoment/EasyMediaProcessor/dist) (약 100MB)
 - Python 설치 불필요, 즉시 실행 가능
 
-**개발자/소스코드**
-- [소스코드 ZIP](https://github.com/LifeIsMoment/EasyMediaProcessor/archive/refs/heads/main.zip)
+**개발자**
 - Python 3.8+ 필요
 
 ## 🎯 주요 기능
@@ -90,7 +89,7 @@ EasyMediaProcessor는 소규모 영상 처리 회사를 위한 올인원 미디�
 ## 💻 설치 가이드
 
 ### 방법 1: exe 파일 실행 (일반 사용자)
-1. [EasyMediaProcessor.exe](https://github.com/LifeIsMoment/EasyMediaProcessor/releases/latest) 다운로드
+1. [EasyMediaProcessor.exe](https://github.com/LifeIsMoment/EasyMediaProcessor/dist) 다운로드
 2. 다운로드한 파일 더블클릭
 3. Windows Defender 경고 시 "추가 정보" → "실행" 클릭
 4. 즉시 사용 가능! 🎉
