@@ -1,0 +1,8 @@
+# 개발용 추가 패키지
+pytest>=7.0.0
+pytest-qt>=4.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
